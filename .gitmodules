@@ -1,0 +1,3 @@
+[submodule "saiadmin-vue"]
+	path = saiadmin-vue
+	url = https://gitee.com/saigroup/saiadmin-vue.git
